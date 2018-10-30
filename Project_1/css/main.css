@@ -1,0 +1,66 @@
+* {
+    font-family: 'Lato', sans-serif;
+
+}
+
+header {
+
+}
+
+h1 > a {
+    color: #F8CE78;
+    font-weight: 300;
+    font-size: 48px;
+    text-decoration: none;
+}
+
+h2 > a {
+    color: black;
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 48px;
+}
+
+h3{
+    color: #CFCDCC;
+    font-weight: 300;
+    text-transform: italic;
+    font-size: 42px;
+    margin: 20px 0 -15px 0;
+    
+
+}
+
+h4 {
+    color: #F8CE78;
+    font-weight: 700;
+    text-align: right;
+
+
+}
+
+a {
+    color: #E8E8E9;
+    margin: 5px; 
+}
+
+nav {
+    color: #E0EDF7;
+
+}
+
+article {
+
+}
+
+p {
+
+}
+
+footer {
+
+}
+
+img {
+
+}
